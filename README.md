@@ -28,3 +28,18 @@ The aim is to identify key trends and opportunities from Global Electronics' dat
 The final report features detailed customer analysis, sales trends, product performance, and store evaluation. It includes actionable recommendations for improving marketing campaigns, optimizing inventory, forecasting sales, and enhancing store operations, leading to increased revenue and customer satisfaction.
 
 ## Repository Structure
+  .
+  ├── Cleaned_Customer_2.csv # Cleaned customer data 
+  ├── Cleaned_Exchange_Rates.csv # Cleaned exchange rate data 
+  ├── Cleaned_Products.csv # Cleaned product data 
+  ├── Cleaned_Sales_3.csv # Cleaned sales data 
+  ├── Cleaned_Stores_2.csv # Cleaned store data 
+  ├── Customers.csv # Raw customer data 
+  ├── Exchange_Rates.csv # Raw exchange rate data 
+  ├── Products.csv # Raw product data 
+  ├── Sales.csv # Raw sales data 
+  ├── Stores.csv # Raw store data 
+  ├── Data_Dictionary.csv # Describes dataset features 
+  ├── cleaning_pandas.ipynb # Jupyter notebook for cleaning and MySQL integration 
+  ├── global_electronics.pbix # Power BI dashboard for visualizations 
+  └── README.md # Project documentation
